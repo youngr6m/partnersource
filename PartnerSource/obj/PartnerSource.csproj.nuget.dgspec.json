@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\russe\\OneDrive\\Documents\\GitHub\\partnersource\\PartnerSource\\PartnerSource.csproj": {}
+    "/workspaces/partnersource/PartnerSource/PartnerSource.csproj": {}
   },
   "projects": {
-    "C:\\Users\\russe\\OneDrive\\Documents\\GitHub\\partnersource\\PartnerSource\\PartnerSource.csproj": {
+    "/workspaces/partnersource/PartnerSource/PartnerSource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\russe\\OneDrive\\Documents\\GitHub\\partnersource\\PartnerSource\\PartnerSource.csproj",
+        "projectUniqueName": "/workspaces/partnersource/PartnerSource/PartnerSource.csproj",
         "projectName": "PartnerSource",
-        "projectPath": "C:\\Users\\russe\\OneDrive\\Documents\\GitHub\\partnersource\\PartnerSource\\PartnerSource.csproj",
-        "packagesPath": "C:\\Users\\russe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\russe\\OneDrive\\Documents\\GitHub\\partnersource\\PartnerSource\\obj\\",
+        "projectPath": "/workspaces/partnersource/PartnerSource/PartnerSource.csproj",
+        "packagesPath": "/var/nuget",
+        "outputPath": "/workspaces/partnersource/PartnerSource/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\russe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/dotnet/6.0.100/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

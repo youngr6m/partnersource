@@ -1,0 +1,7 @@
+/workspaces/partnersource/PartnerSource/bin/Release/net6.0/publish/PartnerSource
+/workspaces/partnersource/PartnerSource/bin/Release/net6.0/publish/appsettings.Development.json
+/workspaces/partnersource/PartnerSource/bin/Release/net6.0/publish/appsettings.json
+/workspaces/partnersource/PartnerSource/bin/Release/net6.0/publish/PartnerSource.dll
+/workspaces/partnersource/PartnerSource/bin/Release/net6.0/publish/PartnerSource.deps.json
+/workspaces/partnersource/PartnerSource/bin/Release/net6.0/publish/PartnerSource.runtimeconfig.json
+/workspaces/partnersource/PartnerSource/bin/Release/net6.0/publish/PartnerSource.pdb
